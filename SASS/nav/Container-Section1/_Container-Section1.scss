@@ -1,0 +1,88 @@
+.Container-Section1
+{
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/I/81%2BpPe-h7cL.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+.row
+{
+    background: linear-gradient(45deg,#062126,rgba(5,32,38,.541176));
+    height: -webkit-fill-available;
+}
+
+
+
+.card-Text
+{
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    background: linear-gradient(to left, transparent, #04171a82 , #051c20);
+    border-radius: 13em;
+    padding-top: 6em;
+
+
+div
+{
+    h1
+    {
+        font-size: 40px;
+        letter-spacing: 2px;
+        font-weight: 600;
+        line-height: 1.5;
+        color: #0febff;
+        text-shadow: 0 3px 10px #007bff;
+    }
+
+
+    h2
+    {
+        font-size: 4em;
+        font-weight: 500;
+        color: #fff;
+        text-shadow: 0 3px 10px #3ae3f6;
+        transform: scale(1.2);
+        margin: .5em 0em;
+    }
+
+
+
+    p
+    {
+        font-size: 28px;
+    line-height: 1;
+    letter-spacing: 4px;
+    font-weight: 600;
+    color: #fff;
+    text-shadow: 0 3px 10px #3ae3f6;
+    }
+
+
+    a
+    {
+        color: #0ee7fc;
+        text-shadow: 0 3px 10px rgba(0,123,255,.5);
+        font-size: 26px;
+        letter-spacing: 1px;
+        font-weight: 600;
+        line-height: 1.5;
+    }
+
+    a:hover
+    {
+        text-decoration: none;
+    }
+
+
+}
+  
+}
+
+
+
+
+
+
+}

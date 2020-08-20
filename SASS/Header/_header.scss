@@ -1,0 +1,135 @@
+header
+{
+    height: 14vh;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
+
+.card-Text-And-img
+{   
+    margin-top: 1em;
+    border-radius: 4px;
+    background: linear-gradient(to right, #232526de, #414345);
+
+    .row
+    {padding: 8px;
+        align-items: baseline;
+    }
+
+
+
+
+
+.card-Img
+{   padding: 0;
+    div
+    {
+            img
+            {
+                width: 28%;
+            }
+    }
+}
+
+
+
+
+
+
+.card-Text
+{
+    padding: 0;
+    margin: 0;
+
+    ul
+    { 
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+
+.home
+{   list-style: none;
+
+    a
+    {
+        color: #d4d4d4;
+        padding: 3em 0em;}
+
+    a:hover
+    {
+        text-decoration: none;
+    }
+}
+
+
+.dropduon
+{   list-style: none;
+    
+
+
+    a
+    {
+    color: #d4d4d4;
+    padding: 3em 0em;
+    }
+    a:hover
+    {
+        text-decoration: none;
+    }
+
+
+
+    ul
+    {   
+        display: none;
+        position: absolute;
+        width: 45%;
+        top: 3.8em;
+        padding: 0;
+        margin: 0;
+        z-index: 3;
+        
+     
+
+        li
+        {
+            list-style: none;
+
+            a
+            {            
+                padding: 1em 0em;
+                display: block;
+                background: linear-gradient(to bottom, rgba(35,37,38,0.870588), #414345);
+                color: #d8d5d5;
+            }
+
+        }
+    }
+    
+
+}
+
+
+
+
+.dropduon:hover ul{display: block; transition: .2s;}
+
+
+  
+
+
+
+    }
+}
+
+
+
+
+}
+
+
+}
+
+
